@@ -1,31 +1,32 @@
-# title(){return this.options.title||this.options.name}
+# Simple Dice Game - Practice Project
 
-Quick start:
+This is a practice project to build a simple Dice Game using plain JavaScript. Roll the dice and see who wins!
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## Demo
 
-## Development
+![image](https://github.com/DevAbdurR/Plain-JS-Dice-Game/assets/112758727/a4af4570-4a45-40a9-a68e-573eb17ccbbc)
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
-```
-$ yarn watch # npm run watch
-```
+See the live project in action: [Simple Dice Game Demo](https://your-live-demo-link.com)
 
-## Supporting Scrimba
+## Getting Started
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+To run the project locally, follow these steps:
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+1. Clone this repository: `git clone https://github.com/DevAbdurR/Plain-JS-Dice-Game.git`
+2. Open `index.html` in your browser.
 
-	It would also mean the world to us if you share the courses.  
+## How to Play
 
-Happy Coding!
+1. Open the page and you'll see two dice.
+2. Click the "Roll Dice" button to roll the dice for both players.
+3. The player with the higher dice number wins the round.
+4. Refresh the page to start a new game.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit improvements or fixes.
+
+---
+
+This project was developed as a practice exercise for building a simple Dice Game using plain JavaScript. Have fun rolling the dice and enhancing your JavaScript skills!
