@@ -7,8 +7,7 @@ This is a practice project to build a simple Dice Game using plain JavaScript. R
 ![image](https://github.com/DevAbdurR/Plain-JS-Dice-Game/assets/112758727/a4af4570-4a45-40a9-a68e-573eb17ccbbc)
 
 
-See the live project in action: [Simple Dice Game Demo](https://your-live-demo-link.com)
-
+See the live project in action on provided github-pages link.
 ## Getting Started
 
 To run the project locally, follow these steps:
